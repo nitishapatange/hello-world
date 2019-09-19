@@ -36,4 +36,5 @@ Feedback from elevator to user:
 
 Improvements to make on the control interface:
 
-[hw1_63_patange3.pdf](https://github.com/nitishapatange/hw1_63_patange/files/3629353/hw1_63_patange3.pdf)
+![Nitisha patange](https://user-images.githubusercontent.com/55517406/65213626-8b7a3d00-dac4-11e9-9067-dc0afd7fdc24.jpg)
+
