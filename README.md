@@ -35,3 +35,5 @@ Feedback from elevator to user:
 2.	The display unit will give the user feedback about the exact position of the elevator and also whether it is going up or down.
 
 Improvements to make on the control interface:
+
+[hw1_63_patange3.pdf](https://github.com/nitishapatange/hw1_63_patange/files/3629353/hw1_63_patange3.pdf)
