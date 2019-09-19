@@ -1,7 +1,7 @@
 TO GET A:
 
 Example of elevator:
-
+![hw1_63_patange](https://user-images.githubusercontent.com/55517406/65212914-b31bd600-dac1-11e9-9084-6b1f2a7af1b6.gif)
 
 Issues with the design:
 1.	No use for blind people
