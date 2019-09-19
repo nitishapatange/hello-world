@@ -1,7 +1,7 @@
-
-
-
 TO GET A:
+
+Example of elevator:
+
 
 Issues with the design:
 1.	No use for blind people
